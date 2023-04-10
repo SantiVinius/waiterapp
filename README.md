@@ -17,7 +17,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
 * [Git](https://git-scm.com/)
-* [Docker](https://www.docker.com/get-started/)
 * [Node](https://nodejs.org/en)
 * [Yarn](https://yarnpkg.com/)
 * [Expo](https://expo.dev/)
