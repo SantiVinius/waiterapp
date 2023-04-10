@@ -10,7 +10,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Typescript
 - Node
 - MongoDB
-- Docker
 - Websockets
 
 ## Como executar o projeto
