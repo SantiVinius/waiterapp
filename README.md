@@ -39,6 +39,7 @@ Baixe o repositório com git clone e entre na pasta do projeto.<br/>
 $ git clone https://github.com/SantiVinius/waiterapp
 ```
 * Back-end
+no .env, digite uma chave aleatória para o SECRET
 ```bash
 $ cd api
 $ yarn
