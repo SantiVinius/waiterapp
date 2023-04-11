@@ -7,22 +7,22 @@ O WaiterApp é um sistema web desenvolvido para gerenciar os pedidos feitos pelo
 
 #### Back-end
 * Node + Express + Typescript
-Multer para upload de imagens
+* Multer para upload de imagens
 * Socket.io para interação com front-end
 * Mongoose + MongoDb para banco de dados
 
 #### Front-end
-* React + Vite + Typescript
+* React, Vite e Typescript
 * Styled-Components para estilização
-* Socket.io-client para interação com back-end
+* Socket.io-client para interação em tempo real com back-end
 * React-Toastify para exibição de mensagens
 * Axios para acessar a API
 
 #### Mobile
-* React Native + Expo + Typescript
+* React Native, Expo e Typescript
 * Styled-Components para estilização
 * Axios para acessar a API
-* DotEnv para variáveis de ambiente
+* Dotenv para variáveis de ambiente
 
 ## Como executar o projeto
 ### Pré-requisitos
