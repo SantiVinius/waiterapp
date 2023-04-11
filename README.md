@@ -34,12 +34,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 * [Expo](https://expo.dev/)
 
 ### :car: Iniciando a aplicação
-Baixe o repositório com git clone e entre na pasta do projeto.<br/>
+- Baixe o repositório com git clone e entre na pasta do projeto.<br/>
 ```bash
 $ git clone https://github.com/SantiVinius/waiterapp
 ```
 * Back-end
-no .env, digite uma chave aleatória para o SECRET
+##### no .env file, digite uma chave aleatória para o SECRET
 ```bash
 $ cd api
 $ yarn
