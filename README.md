@@ -1,4 +1,4 @@
-# WaiterApp
+![capa (1)](https://user-images.githubusercontent.com/51785898/203780007-2f7a7532-11b8-489c-99cf-09399c1c935e.png)
 ## Sobre o projeto
 
 O WaiterApp é um sistema web desenvolvido para gerenciar os pedidos feitos pelos garçons em um restaurante. A aplicação é composta por uma interface para os garçons realizarem os pedidos via app e uma interface para os gerentes acompanharem e gerenciarem os pedidos via web.
