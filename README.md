@@ -39,7 +39,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 $ git clone https://github.com/SantiVinius/waiterapp
 ```
 * Back-end
-##### no .env file, digite uma chave aleatória para o SECRET
+##### no .env file, digite uma chave aleatória para o SECRET, para assim poder gerar o token de autenticação para utilizar nas requisições
 ```bash
 $ cd api
 $ yarn
